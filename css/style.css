@@ -44,3 +44,31 @@ a{
     text-decoration: none;
     color: black;
 }
+
+/* main */
+
+main{
+    margin: 1% 10%;
+}
+
+section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.perso{
+    width: 30%;
+}
+
+#tifa{
+    width: 20%;
+}
+
+#nanaki{
+    width: 40%;
+}
+
+article{
+    width: 50%;
+}
